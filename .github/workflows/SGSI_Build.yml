@@ -6,15 +6,15 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://bigota.d.miui.com/V12.5.17.0.RKACNXM/miui_STAR_V12.5.17.0.RKACNXM_9cc0f1e5a5_11.0.zip'
+        default: 'https://download.exthmui.cn/exthmui/begonia/exthm-11.0-20210823-PHANTASM-SNAPSHOT-begonia-Vanilla.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'miui_STAR_V12.5.17.0.RKACNXM_9cc0f1e5a5_11.0.zip'
+        default: 'exthm-11.0-20210823-PHANTASM-SNAPSHOT-begonia-Vanilla.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'miui'
+        default: 'Generic'
       SGSI_TYPE:
         description: 'SGSI_TYPE(AB, A, or BOTH)'
         required: true
