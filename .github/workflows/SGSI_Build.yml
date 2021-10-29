@@ -6,15 +6,15 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://download.exthmui.cn/exthmui/begonia/exthm-11.0-20210823-PHANTASM-SNAPSHOT-begonia-Vanilla.zip'
+        default: 'https://hugeota.d.miui.com/21.8.11/miui_DAVINCI_21.8.11_398702db56_11.0.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'exthm-11.0-20210823-PHANTASM-SNAPSHOT-begonia-Vanilla.zip'
+        default: 'miui_DAVINCI_21.8.11_398702db56_11.0.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'Generic'
+        default: 'miui'
       SGSI_TYPE:
         description: 'SGSI_TYPE(AB, A, or BOTH)'
         required: true
